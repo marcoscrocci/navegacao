@@ -1,0 +1,22 @@
+criar projeto
+react-native init navegacao
+
+Documentação
+https://reactnavigation.org/docs/hello-react-navigation/
+
+Vídeo Aula:
+https://www.youtube.com/watch?v=WVdRjMycfpo&t=69s
+
+npm install @react-navigation/native
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npx pod-install ios
+ou
+cd ios
+pod install
+cd ..
+
+npm install @react-navigation/stack
+
+npm install @react-navigation/bottom-tabs
